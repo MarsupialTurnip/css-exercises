@@ -1,18 +1,18 @@
 p {
-    background-color: lightpink;
+    background-color: #ffb6c1;
     font: Verdana, DejaVu-Sans, sans-serif;
 }
 
-.two {
-    color: blue;
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: hwb(240 0% 0%);
     font-size: 36px;
 }
 
-.three {
-    font-size: 24px;
-}
-.four {
-    background-color: lightgreen;
-    font-size: 24px;
+#four {
+    background-color: #90ee90;
     font-weight: bold;
 }
